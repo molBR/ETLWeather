@@ -1,0 +1,362 @@
+{
+    "São PauloTemp": {
+        "LocalObservationDateTime": "2019-04-28T19:55:00-03:00",
+        "EpochTime": 1556492100,
+        "WeatherText": "Thunderstorm",
+        "WeatherIcon": 42,
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "IsDayTime": false,
+        "Temperature": {
+            "Metric": {
+                "Value": 17.8,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Imperial": {
+                "Value": 64,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "MobileLink": "http://m.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us",
+        "Link": "http://www.accuweather.com/en/br/sao-paulo/45881/current-weather/45881?lang=en-us"
+    },
+    "São PauloInfo": {
+        "Version": 1,
+        "Key": "45881",
+        "Type": "City",
+        "Rank": 21,
+        "LocalizedName": "São Paulo",
+        "EnglishName": "São Paulo",
+        "PrimaryPostalCode": "",
+        "Region": {
+            "ID": "SAM",
+            "LocalizedName": "South America",
+            "EnglishName": "South America"
+        },
+        "Country": {
+            "ID": "BR",
+            "LocalizedName": "Brazil",
+            "EnglishName": "Brazil"
+        },
+        "AdministrativeArea": {
+            "ID": "SP",
+            "LocalizedName": "São Paulo",
+            "EnglishName": "São Paulo",
+            "Level": 1,
+            "LocalizedType": "State",
+            "EnglishType": "State",
+            "CountryID": "BR"
+        },
+        "TimeZone": {
+            "Code": "BRT",
+            "Name": "America/Sao_Paulo",
+            "GmtOffset": -3,
+            "IsDaylightSaving": false,
+            "NextOffsetChange": "2019-11-03T03:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": -23.567,
+            "Longitude": -46.57,
+            "Elevation": {
+                "Metric": {
+                    "Value": 662,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 2171,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "São Paulo",
+                "EnglishName": "São Paulo"
+            },
+            {
+                "Level": 3,
+                "LocalizedName": "Água Rasa",
+                "EnglishName": "Água Rasa"
+            }
+        ],
+        "DataSets": [
+            "Alerts"
+        ]
+    },
+    "SantosTemp": {
+        "LocalObservationDateTime": "2019-04-28T19:55:00-03:00",
+        "EpochTime": 1556492100,
+        "WeatherText": "Cloudy",
+        "WeatherIcon": 7,
+        "HasPrecipitation": false,
+        "PrecipitationType": null,
+        "IsDayTime": false,
+        "Temperature": {
+            "Metric": {
+                "Value": 20,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Imperial": {
+                "Value": 68,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "MobileLink": "http://m.accuweather.com/en/br/santos/36358/current-weather/36358?lang=en-us",
+        "Link": "http://www.accuweather.com/en/br/santos/36358/current-weather/36358?lang=en-us"
+    },
+    "SantosInfo": {
+        "Version": 1,
+        "Key": "36358",
+        "Type": "City",
+        "Rank": 35,
+        "LocalizedName": "Santos",
+        "EnglishName": "Santos",
+        "PrimaryPostalCode": "",
+        "Region": {
+            "ID": "SAM",
+            "LocalizedName": "South America",
+            "EnglishName": "South America"
+        },
+        "Country": {
+            "ID": "BR",
+            "LocalizedName": "Brazil",
+            "EnglishName": "Brazil"
+        },
+        "AdministrativeArea": {
+            "ID": "SP",
+            "LocalizedName": "São Paulo",
+            "EnglishName": "São Paulo",
+            "Level": 1,
+            "LocalizedType": "State",
+            "EnglishType": "State",
+            "CountryID": "BR"
+        },
+        "TimeZone": {
+            "Code": "BRT",
+            "Name": "America/Sao_Paulo",
+            "GmtOffset": -3,
+            "IsDaylightSaving": false,
+            "NextOffsetChange": "2019-11-03T03:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": -23.934,
+            "Longitude": -46.331,
+            "Elevation": {
+                "Metric": {
+                    "Value": 9,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 29,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "Santos",
+                "EnglishName": "Santos"
+            },
+            {
+                "Level": 3,
+                "LocalizedName": "Santos",
+                "EnglishName": "Santos"
+            }
+        ],
+        "DataSets": [
+            "Alerts"
+        ]
+    },
+    "Ribeirão PretoTemp": {
+        "LocalObservationDateTime": "2019-04-28T19:55:00-03:00",
+        "EpochTime": 1556492100,
+        "WeatherText": "Clear",
+        "WeatherIcon": 33,
+        "HasPrecipitation": false,
+        "PrecipitationType": null,
+        "IsDayTime": false,
+        "Temperature": {
+            "Metric": {
+                "Value": 27.8,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Imperial": {
+                "Value": 82,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "MobileLink": "http://m.accuweather.com/en/br/ribeirao-preto/36378/current-weather/36378?lang=en-us",
+        "Link": "http://www.accuweather.com/en/br/ribeirao-preto/36378/current-weather/36378?lang=en-us"
+    },
+    "Ribeirão PretoInfo": {
+        "Version": 1,
+        "Key": "36378",
+        "Type": "City",
+        "Rank": 35,
+        "LocalizedName": "Ribeirão Preto",
+        "EnglishName": "Ribeirão Preto",
+        "PrimaryPostalCode": "",
+        "Region": {
+            "ID": "SAM",
+            "LocalizedName": "South America",
+            "EnglishName": "South America"
+        },
+        "Country": {
+            "ID": "BR",
+            "LocalizedName": "Brazil",
+            "EnglishName": "Brazil"
+        },
+        "AdministrativeArea": {
+            "ID": "SP",
+            "LocalizedName": "São Paulo",
+            "EnglishName": "São Paulo",
+            "Level": 1,
+            "LocalizedType": "State",
+            "EnglishType": "State",
+            "CountryID": "BR"
+        },
+        "TimeZone": {
+            "Code": "BRT",
+            "Name": "America/Sao_Paulo",
+            "GmtOffset": -3,
+            "IsDaylightSaving":     false,
+            "NextOffsetChange": "2019-11-03T03:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": -21.185,
+            "Longitude": -47.805,
+            "Elevation": {
+                "Metric": {
+                    "Value": 595,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 1951,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "Ribeirão Preto",
+                "EnglishName": "Ribeirão Preto"
+            },
+            {
+                "Level": 3,
+                "LocalizedName": "Ribeirão Preto",
+                "EnglishName": "Ribeirão Preto"
+            }
+        ],
+        "DataSets": [
+            "Alerts"
+        ]
+    },
+    "SorocabaTemp": {
+        "LocalObservationDateTime": "2019-04-28T19:55:00-03:00",
+        "EpochTime": 1556492100,
+        "WeatherText": "Some clouds",
+        "WeatherIcon": 36,
+        "HasPrecipitation": false,
+        "PrecipitationType": null,
+        "IsDayTime": false,
+        "Temperature": {
+            "Metric": {
+                "Value": 21,
+                "Unit": "C",
+                "UnitType": 17
+            },
+            "Imperial": {
+                "Value": 70,
+                "Unit": "F",
+                "UnitType": 18
+            }
+        },
+        "MobileLink": "http://m.accuweather.com/en/br/sorocaba/36382/current-weather/36382?lang=en-us",
+        "Link": "http://www.accuweather.com/en/br/sorocaba/36382/current-weather/36382?lang=en-us"
+    },
+    "SorocabaInfo": {
+        "Version": 1,
+        "Key": "36382",
+        "Type": "City",
+        "Rank": 35,
+        "LocalizedName": "Sorocaba",
+        "EnglishName": "Sorocaba",
+        "PrimaryPostalCode": "",
+        "Region": {
+            "ID": "SAM",
+            "LocalizedName": "South America",
+            "EnglishName": "South America"
+        },
+        "Country": {
+            "ID": "BR",
+            "LocalizedName": "Brazil",
+            "EnglishName": "Brazil"
+        },
+        "AdministrativeArea": {
+            "ID": "SP",
+            "LocalizedName": "São Paulo",
+            "EnglishName": "São Paulo",
+            "Level": 1,
+            "LocalizedType": "State",
+            "EnglishType": "State",
+            "CountryID": "BR"
+        },
+        "TimeZone": {
+            "Code": "BRT",
+            "Name": "America/Sao_Paulo",
+            "GmtOffset": -3,
+            "IsDaylightSaving": false,
+            "NextOffsetChange": "2019-11-03T03:00:00Z"
+        },
+        "GeoPosition": {
+            "Latitude": -23.499,
+            "Longitude": -47.458,
+            "Elevation": {
+                "Metric": {
+                    "Value": 601,
+                    "Unit": "m",
+                    "UnitType": 5
+                },
+                "Imperial": {
+                    "Value": 1971,
+                    "Unit": "ft",
+                    "UnitType": 0
+                }
+            }
+        },
+        "IsAlias": false,
+        "SupplementalAdminAreas": [
+            {
+                "Level": 2,
+                "LocalizedName": "Sorocaba",
+                "EnglishName": "Sorocaba"
+            },
+            {
+                "Level": 3,
+                "LocalizedName": "Sorocaba",
+                "EnglishName": "Sorocaba"
+            }
+        ],
+        "DataSets": [
+            "Alerts"
+        ]
+    }
+}
